@@ -1,6 +1,6 @@
 name: crazyforlife
 favicon: null
-layout_spectrum: 0.29241991229355335
+layout_spectrum: 0.75241
 typography_spectrum: 0.6553533629048616
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#f05b30'
+    - '#f9b049'
+    - '#ffffff'
+    - '#c76749'
+    - '#fa9b46'
   brandStrength: 0.28717528213746846
   lightness: 0.6476436189841479
   saturation: 0.20085067814216018
